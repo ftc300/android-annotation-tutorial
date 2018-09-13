@@ -8,6 +8,11 @@
 
 并且记录于我的博客中，欢迎拍砖，喜欢的朋友点个Star![mark](http://p9zfbayl1.bkt.clouddn.com/blog/180913/h75DaHh9mF.png?imageslim)吧。
 
+[安卓进阶指南Annotation总结篇（一）](http://ftc300.pub/2018/07/04/annotation0/)
+[安卓进阶指南Annotation源码级注解（二）](http://ftc300.pub/2018/07/04/annotation1/)
+[安卓进阶指南Annotation自定义运行时注解（三）](http://ftc300.pub/2018/07/04/annotation2/)
+[安卓进阶指南Annotation自定义编译时注解（四）](http://ftc300.pub/2018/07/04/annotation3/)
+
 #### 关于作者（About）
 我的博客（Blog):http://ftc300.pub
 
